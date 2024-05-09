@@ -8,3 +8,5 @@ class SubirDumentoImagen(models.Model):
     class Meta:
         db_table = "files"
         ordering = ['-created_at']
+    def __str__(self):
+        return self.documento.name  # Devolver el nombre del archivo como representación de cadena

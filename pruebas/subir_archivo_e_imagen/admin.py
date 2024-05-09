@@ -9,4 +9,11 @@ class SubirDumentoImagenAdmin(admin.ModelAdmin):
     def has_delete_permission(self, request, obj=None):
         return True  # Permitir la eliminación de documentos
 
+    def get_deleted_objects(self, objs, request):
+        deleted_objects = super().get_deleted_objects(objs, request)
+        # Personalizar el mensaje de confirmación de eliminación
+        if len(deleted_objects) == 1 and isinstance(deleted_objects[0], SubirDumentoImagen):
+            deleted_objects[0].object_repr = str(deleted_objects[0])
+        return deleted_objects
+
 admin.site.register(SubirDumentoImagen, SubirDumentoImagenAdmin)
