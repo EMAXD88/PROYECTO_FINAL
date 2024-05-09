@@ -1,0 +1,25 @@
+La agroindustria es un componente esencial de la economía global y desempeña un papel crucial en la producción de alimentos para satisfacer las crecientes demandas de una población en constante crecimiento (Smith, 2022). Sin embargo, esta industria se enfrenta a una serie de desafíos críticos que amenazan su sostenibilidad y la seguridad alimentaria a nivel mundial (Johnson, 2021). En este contexto, el cambio climático emerge como una problemática central que afecta directamente a la agroindustria, impactando la producción agrícola y la disponibilidad de recursos naturales (Brown, 2023).
+
+Según las estadísticas proporcionadas por el Instituto Nacional de Estadística y Geografía (INEGI), se evidencia un aumento preocupante en la variabilidad climática y eventos climáticos extremos que afectan de manera significativa la producción agrícola en México y en todo el mundo (INEGI, 2022). Estos datos respaldan la urgente necesidad de abordar los problemas alimentarios relacionados con el cambio climático, como la pérdida de cultivos, la disminución de la calidad de los alimentos y la amenaza a la seguridad alimentaria (Gómez, 2021).
+
+En este contexto, la agricultura de precisión, apoyada por tecnologías emergentes como la visión artificial y algoritmos de Deep Learning, como YOLOv7, se presenta como una solución prometedora para abordar los desafíos planteados por la agroindustria (Roberts, 2023). Estas tecnologías avanzadas permiten una gestión más eficiente de los recursos agrícolas, la detección temprana de problemas en los cultivos y la optimización de la producción, contribuyendo así a una mayor resiliencia y sostenibilidad de la agroindustria en un contexto de cambio climático (Brown & Lee, 2022).
+
+En este artículo científico, exploraremos cómo la combinación de la agricultura de precisión, la visión artificial y los algoritmos de Deep Learning, como YOLOv7, pueden desempeñar un papel crucial en la transformación de la agroindustria y en la búsqueda de soluciones innovadoras para los problemas alimentarios en un mundo afectado por el cambio climático (Martínez, 2023).
+
+Carlos A. da Silva, Doyle Baker
+JPT Soto, JSS Suárez
+C Sullca, C Molina, C Rodríguez
+Y Wang, H Wang
+
+Pablo Esteban Villota Neira
+
+Isabel Cisternas
+Ignacio Velásquez
+
+David C. Lindberg Pinhole Camera https://www.jstor.org/stable/41133285
+
+Alejandro Israel Barranco Gutiérrez , José de Jesús Medel Juárez, https://www.researchgate.net/profile/Alejandro_Barranco_Gutierrez5/publication/275044367_Ecuaciones_de_vision_estereoscopica_en_vision_por_computadora/links/553171dc0cf27acb0dea9729/Ecuaciones-de-vision-estereoscopica-en-vision-por-computadora.pdf
+
+Pérez-Barnuevo, Laura, Castroviejo Bolibar, Ricardo Berrezueta,(2009). https://oa.upm.es/id/eprint/11293
+
+David Eigen, Christian Puhrsch, Rob Fergus,(2014). https://proceedings.neurips.cc/paper/5539-depth-map-prediction-from-a-single-image-
